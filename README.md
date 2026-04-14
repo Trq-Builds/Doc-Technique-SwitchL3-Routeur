@@ -159,5 +159,3 @@ Internet
 3. NAT → sortie WAN
 
 ---
-
----
